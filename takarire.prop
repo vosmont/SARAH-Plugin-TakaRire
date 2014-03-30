@@ -1,0 +1,9 @@
+{
+	"modules" : { 
+		"takarire" : {
+			"description": "Raconte des blagues pour enfant de façon aléatoire",
+			"version": "1.0",
+			"max_joke_id": "1300"
+		}
+	}
+}

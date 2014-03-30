@@ -1,0 +1,10 @@
+
+.plugin-gridster.takarire .front {
+  background: #FFFFFF url('images/logo.jpg') center 10px;
+  background-size:   140px 140px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.takarire .back {
+  background: #FFFFFF;
+}

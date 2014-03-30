@@ -1,0 +1,15 @@
+<grammar version="1.0" xml:lang="fr-FR" mode="voice" root="ruletakarire" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+	<rule id="ruletakarire" scope="public">
+		<example>Sarah raconte une blague</example>
+		<tag>out.action=new Object(); </tag>
+		<item>Sarah</item>
+		<item>
+			<one-of>
+				<item>raconte une blague</item>
+				<item>raconte moi une blague</item>
+				<item>une autre blague</item>
+			</one-of>
+		</item>
+		<tag>out.action._attributes.uri="http://127.0.0.1:8080/sarah/takarire";</tag>
+	</rule>
+</grammar>
