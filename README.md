@@ -1,4 +1,4 @@
-SARAH plugin : Freebox
+SARAH plugin : TakaRire
 =======================
 
 Plugin pour S.A.R.A.H. (http://encausse.wordpress.com/s-a-r-a-h/) qui permet de lire aléatoirement des blagues pour enfant.
